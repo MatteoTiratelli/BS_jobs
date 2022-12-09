@@ -1,0 +1,518 @@
+﻿Country,Skill level,Year,Value
+Germany,Total,1992,36525.423
+Germany,High,1992,12131.817
+Germany,Medium,1992,19478.368
+Germany,Low,1992,2954.928
+Germany,NA,1992,1960.311
+Germany,Total,1993,36110.532
+Germany,High,1993,12623.725
+Germany,Medium,1993,19059.443
+Germany,Low,1993,3004.926
+Germany,NA,1993,1422.438
+Germany,Total,1994,35838.297
+Germany,High,1994,12763.883
+Germany,Medium,1994,18900.762
+Germany,Low,1994,2890.265
+Germany,NA,1994,1283.388
+Germany,Total,1995,35780.461
+Germany,High,1995,12999.246
+Germany,Medium,1995,18842.525
+Germany,Low,1995,2805.264
+Germany,NA,1995,1133.427
+Germany,Total,1996,35630.534
+Germany,High,1996,13388.137
+Germany,Medium,1996,18912.721
+Germany,Low,1996,2606.59
+Germany,NA,1996,723.086
+Germany,Total,1997,35297.906
+Germany,High,1997,13506
+Germany,Medium,1997,18451.459
+Germany,Low,1997,2615.567
+Germany,NA,1997,724.879
+Germany,Total,1998,35535.405
+Germany,High,1998,13689.585
+Germany,Medium,1998,18427.518
+Germany,Low,1998,2656.217
+Germany,NA,1998,762.085
+Germany,Total,1999,36086.233
+Germany,High,1999,13879.219
+Germany,Medium,1999,18643.258
+Germany,Low,1999,2882.058
+Germany,NA,1999,681.698
+Germany,Total,2000,36323.412
+Germany,High,2000,14137.961
+Germany,Medium,2000,18598.982
+Germany,Low,2000,2925.759
+Germany,NA,2000,660.71
+Germany,Total,2001,36526.499
+Germany,High,2001,14369.245
+Germany,Medium,2001,18516.795
+Germany,Low,2001,2923.289
+Germany,NA,2001,717.17
+Germany,Total,2002,36274.047
+Germany,High,2002,14447.705
+Germany,Medium,2002,18244.137
+Germany,Low,2002,2856.075
+Germany,NA,2002,726.131
+Germany,Total,2003,35926.038
+Germany,High,2003,14642.076
+Germany,Medium,2003,17843.577
+Germany,Low,2003,2780.393
+Germany,NA,2003,659.993
+Germany,Total,2004,35462.049
+Germany,High,2004,14659.276
+Germany,Medium,2004,17418.079
+Germany,Low,2004,2752.522
+Germany,NA,2004,632.173
+Germany,Total,2005,36361.166
+Germany,High,2005,15055.269
+Germany,Medium,2005,17715.126
+Germany,Low,2005,2855.271
+Germany,NA,2005,735.499
+Germany,Total,2006,37172.11
+Germany,High,2006,15351.321
+Germany,Medium,2006,18037.461
+Germany,Low,2006,3061.752
+Germany,NA,2006,721.576
+Germany,Total,2007,37988.331
+Germany,High,2007,15627.47
+Germany,Medium,2007,18489.38
+Germany,Low,2007,3185.803
+Germany,NA,2007,685.678
+Germany,Total,2008,38540.85
+Germany,High,2008,16021.273
+Germany,Medium,2008,18597.893
+Germany,Low,2008,3260.401
+Germany,NA,2008,661.283
+Germany,Total,2009,38470.692
+Germany,High,2009,16319.026
+Germany,Medium,2009,18311.128
+Germany,Low,2009,3169.418
+Germany,NA,2009,671.121
+Germany,Total,2010,37992.246
+Germany,High,2010,16340.486
+Germany,Medium,2010,17879.496
+Germany,Low,2010,3101.804
+Germany,NA,2010,670.459
+Germany,Total,2011,38785.854
+Germany,High,2011,16544.957
+Germany,Medium,2011,18427.753
+Germany,Low,2011,3259.74
+Germany,NA,2011,553.404
+Germany,Total,2012,39125.937
+Germany,High,2012,16759.191
+Germany,Medium,2012,18979.059
+Germany,Low,2012,3187.973
+Germany,NA,2012,199.715
+Germany,Total,2013,39529.706
+Germany,High,2013,17021.807
+Germany,Medium,2013,19043.518
+Germany,Low,2013,3231.617
+Germany,NA,2013,232.764
+Germany,Total,2014,39869.52
+Germany,High,2014,17341.629
+Germany,Medium,2014,19066.344
+Germany,Low,2014,3231.241
+Germany,NA,2014,230.305
+Germany,Total,2015,40208.724
+Germany,High,2015,17769.137
+Germany,Medium,2015,18973.679
+Germany,Low,2015,3249.801
+Germany,NA,2015,216.108
+Germany,Total,2016,41265.121
+Germany,High,2016,18342.006
+Germany,Medium,2016,19429.53
+Germany,Low,2016,3253.773
+Germany,NA,2016,239.811
+Germany,Total,2017,41661.43
+Germany,High,2017,18622.247
+Germany,Medium,2017,19503.635
+Germany,Low,2017,3297.203
+Germany,NA,2017,238.345
+Germany,Total,2018,41912.809
+Germany,High,2018,18937.564
+Germany,Medium,2018,19477.363
+Germany,Low,2018,3270.333
+Germany,NA,2018,227.549
+Germany,Total,2019,42398.515
+Germany,High,2019,19565.641
+Germany,Medium,2019,19300.987
+Germany,Low,2019,3293.794
+Germany,NA,2019,238.094
+Germany,Total,2020,41474.263
+Germany,High,2020,18347.985
+Germany,Medium,2020,18301.454
+Germany,Low,2020,2938.13
+Germany,NA,2020,1886.694
+Germany,Total,2021,41499.954
+Germany,High,2021,18983.043
+Germany,Medium,2021,18914.295
+Germany,Low,2021,3100.453
+Germany,NA,2021,502.164
+France,Total,1992,21947.495
+France,High,1992,9120.227
+France,Medium,1992,10942.23
+France,Low,1992,1617.606
+France,NA,1992,267.432
+France,Total,1993,21821.97
+France,High,1993,6950.719
+France,Medium,1993,12830.378
+France,Low,1993,1666.354
+France,NA,1993,374.519
+France,Total,1994,21580.407
+France,High,1994,6998.516
+France,Medium,1994,12622.877
+France,Low,1994,1599.111
+France,NA,1994,359.903
+France,Total,1995,21906.706
+France,High,1995,7668.99
+France,Medium,1995,12279.087
+France,Low,1995,1638.153
+France,NA,1995,320.476
+France,Total,1996,22022.138
+France,High,1996,7678.319
+France,Medium,1996,12329.469
+France,Low,1996,1698.208
+France,NA,1996,316.142
+France,Total,1997,21957.605
+France,High,1997,7748.476
+France,Medium,1997,12169.315
+France,Low,1997,1731.867
+France,NA,1997,307.947
+France,Total,1998,22247.768
+France,High,1998,7855.71
+France,Medium,1998,12306.085
+France,Low,1998,1734.868
+France,NA,1998,351.105
+France,Total,1999,22506.707
+France,High,1999,8013.669
+France,Medium,1999,12388.581
+France,Low,1999,1784.961
+France,NA,1999,319.496
+France,Total,2000,23122.283
+France,High,2000,8205.438
+France,Medium,2000,12765.953
+France,Low,2000,1830.625
+France,NA,2000,320.267
+France,Total,2001,23677.814
+France,High,2001,8523.959
+France,Medium,2001,12896.105
+France,Low,2001,1907.695
+France,NA,2001,350.055
+France,Total,2002,23884.591
+France,High,2002,8714.424
+France,Medium,2002,12983.272
+France,Low,2002,1853.533
+France,NA,2002,333.362
+France,Total,2003,24611.868
+France,High,2003,9407.165
+France,Medium,2003,12635.689
+France,Low,2003,2230.295
+France,NA,2003,338.719
+France,Total,2004,24573.479
+France,High,2004,9428.391
+France,Medium,2004,12503.705
+France,Low,2004,2292.883
+France,NA,2004,348.5
+France,Total,2005,24984.179
+France,High,2005,9761.562
+France,Medium,2005,12491.677
+France,Low,2005,2357.026
+France,NA,2005,373.914
+France,Total,2006,25150.13
+France,High,2006,9918.577
+France,Medium,2006,12496.337
+France,Low,2006,2388.092
+France,NA,2006,347.124
+France,Total,2007,25586.684
+France,High,2007,10157.45
+France,Medium,2007,12613.049
+France,Low,2007,2449.433
+France,NA,2007,366.753
+France,Total,2008,25926.444
+France,High,2008,10525.006
+France,Medium,2008,12531.954
+France,Low,2008,2531.278
+France,NA,2008,338.207
+France,Total,2009,25674.383
+France,High,2009,10551.971
+France,Medium,2009,12326.363
+France,Low,2009,2502.365
+France,NA,2009,293.684
+France,Total,2010,25730.702
+France,High,2010,10734.775
+France,Medium,2010,12189.192
+France,Low,2010,2512.368
+France,NA,2010,294.367
+France,Total,2011,25758.822
+France,High,2011,11351.938
+France,Medium,2011,11541.679
+France,Low,2011,2587.602
+France,NA,2011,277.603
+France,Total,2012,25804.24
+France,High,2012,11507.534
+France,Medium,2012,11500.49
+France,Low,2012,2556.574
+France,NA,2012,239.643
+France,Total,2013,25785.295
+France,High,2013,11429.208
+France,Medium,2013,11517.694
+France,Low,2013,2564.884
+France,NA,2013,273.509
+France,Total,2014,26376.017
+France,High,2014,11535.412
+France,Medium,2014,11785.75
+France,Low,2014,2700.63
+France,NA,2014,354.224
+France,Total,2015,26441.788
+France,High,2015,11786.613
+France,Medium,2015,11656.968
+France,Low,2015,2708.874
+France,NA,2015,289.333
+France,Total,2016,26579.663
+France,High,2016,12022.847
+France,Medium,2016,11587.194
+France,Low,2016,2690.88
+France,NA,2016,278.742
+France,Total,2017,26802.967
+France,High,2017,12097.692
+France,Medium,2017,11717.815
+France,Low,2017,2731.554
+France,NA,2017,255.907
+France,Total,2018,27021.378
+France,High,2018,12326.286
+France,Medium,2018,11698.185
+France,Low,2018,2655.5
+France,NA,2018,341.408
+France,Total,2019,27132.166
+France,High,2019,12599.019
+France,Medium,2019,11648.535
+France,Low,2019,2523.072
+France,NA,2019,361.54
+France,Total,2020,26995.321
+France,High,2020,12916.33
+France,Medium,2020,11310.342
+France,Low,2020,2416.725
+France,NA,2020,351.924
+France,Total,2021,27727.58
+France,High,2021,13141.379
+France,Medium,2021,11347.302
+France,Low,2021,2377.11
+France,NA,2021,861.789
+United Kingdom,Total,1992,25763.516
+United Kingdom,High,1992,9374.654
+United Kingdom,Medium,1992,13734.168
+United Kingdom,Low,1992,2269.438
+United Kingdom,NA,1992,385.257
+United Kingdom,Total,1993,25477.557
+United Kingdom,High,1993,9484.964
+United Kingdom,Medium,1993,13399.339
+United Kingdom,Low,1993,2261.63
+United Kingdom,NA,1993,331.624
+United Kingdom,Total,1994,25675.766
+United Kingdom,High,1994,9716.17
+United Kingdom,Medium,1994,13436.953
+United Kingdom,Low,1994,2239.858
+United Kingdom,NA,1994,282.785
+United Kingdom,Total,1995,25988.664
+United Kingdom,High,1995,9848.262
+United Kingdom,Medium,1995,13674.231
+United Kingdom,Low,1995,2197.515
+United Kingdom,NA,1995,268.656
+United Kingdom,Total,1996,26280.349
+United Kingdom,High,1996,10065.165
+United Kingdom,Medium,1996,13755.7
+United Kingdom,Low,1996,2186.265
+United Kingdom,NA,1996,273.219
+United Kingdom,Total,1997,26744.3
+United Kingdom,High,1997,10358.527
+United Kingdom,Medium,1997,14042.99
+United Kingdom,Low,1997,2145.138
+United Kingdom,NA,1997,197.645
+United Kingdom,Total,1998,27050.838
+United Kingdom,High,1998,10532.498
+United Kingdom,Medium,1998,14153.678
+United Kingdom,Low,1998,2185.856
+United Kingdom,NA,1998,178.805
+United Kingdom,Total,1999,26873.733
+United Kingdom,High,1999,10645.455
+United Kingdom,Medium,1999,14002.927
+United Kingdom,Low,1999,2045.421
+United Kingdom,NA,1999,179.93
+United Kingdom,Total,2000,27263.111
+United Kingdom,High,2000,10934.528
+United Kingdom,Medium,2000,14048.991
+United Kingdom,Low,2000,2117.65
+United Kingdom,NA,2000,161.942
+United Kingdom,Total,2001,27535.607
+United Kingdom,High,2001,10527.078
+United Kingdom,Medium,2001,13703.247
+United Kingdom,Low,2001,3153.107
+United Kingdom,NA,2001,152.175
+United Kingdom,Total,2002,27730.248
+United Kingdom,High,2002,10793.972
+United Kingdom,Medium,2002,13655.221
+United Kingdom,Low,2002,3150.873
+United Kingdom,NA,2002,130.182
+United Kingdom,Total,2003,28039.929
+United Kingdom,High,2003,11133.276
+United Kingdom,Medium,2003,13728.476
+United Kingdom,Low,2003,3042.634
+United Kingdom,NA,2003,135.543
+United Kingdom,Total,2004,28301.765
+United Kingdom,High,2004,11450.49
+United Kingdom,Medium,2004,13646.655
+United Kingdom,Low,2004,3047.895
+United Kingdom,NA,2004,156.725
+United Kingdom,Total,2005,28736.918
+United Kingdom,High,2005,11741.319
+United Kingdom,Medium,2005,13812.595
+United Kingdom,Low,2005,3026.627
+United Kingdom,NA,2005,156.377
+United Kingdom,Total,2006,29039.872
+United Kingdom,High,2006,12133.323
+United Kingdom,Medium,2006,13703.495
+United Kingdom,Low,2006,3058.583
+United Kingdom,NA,2006,144.471
+United Kingdom,Total,2007,29260.078
+United Kingdom,High,2007,12275.337
+United Kingdom,Medium,2007,13704.39
+United Kingdom,Low,2007,3119.449
+United Kingdom,NA,2007,160.902
+United Kingdom,Total,2008,29519.268
+United Kingdom,High,2008,12558.704
+United Kingdom,Medium,2008,13683.711
+United Kingdom,Low,2008,3101.394
+United Kingdom,NA,2008,175.46
+United Kingdom,Total,2009,29058.311
+United Kingdom,High,2009,12564.017
+United Kingdom,Medium,2009,13359.101
+United Kingdom,Low,2009,2968.863
+United Kingdom,NA,2009,166.33
+United Kingdom,Total,2010,29124.255
+United Kingdom,High,2010,12670.027
+United Kingdom,Medium,2010,13305.189
+United Kingdom,Low,2010,2956.99
+United Kingdom,NA,2010,192.05
+United Kingdom,Total,2011,29281.601
+United Kingdom,High,2011,13666.75
+United Kingdom,Medium,2011,12839.492
+United Kingdom,Low,2011,2589.431
+United Kingdom,NA,2011,185.928
+United Kingdom,Total,2012,29595.675
+United Kingdom,High,2012,13935.002
+United Kingdom,Medium,2012,12840.289
+United Kingdom,Low,2012,2638.557
+United Kingdom,NA,2012,181.826
+United Kingdom,Total,2013,29951.9
+United Kingdom,High,2013,14294.152
+United Kingdom,Medium,2013,12857.209
+United Kingdom,Low,2013,2636.666
+United Kingdom,NA,2013,163.874
+United Kingdom,Total,2014,30669.587
+United Kingdom,High,2014,14557.897
+United Kingdom,Medium,2014,13221.154
+United Kingdom,Low,2014,2731.232
+United Kingdom,NA,2014,159.305
+United Kingdom,Total,2015,31194.558
+United Kingdom,High,2015,14860.246
+United Kingdom,Medium,2015,13425.114
+United Kingdom,Low,2015,2747.893
+United Kingdom,NA,2015,161.304
+United Kingdom,Total,2016,31644.88
+United Kingdom,High,2016,15340.892
+United Kingdom,Medium,2016,13440.054
+United Kingdom,Low,2016,2721.05
+United Kingdom,NA,2016,142.884
+United Kingdom,Total,2017,31964.746
+United Kingdom,High,2017,15535.185
+United Kingdom,Medium,2017,13538.545
+United Kingdom,Low,2017,2750.785
+United Kingdom,NA,2017,140.231
+United Kingdom,Total,2018,32352.77
+United Kingdom,High,2018,15917.094
+United Kingdom,Medium,2018,13497.533
+United Kingdom,Low,2018,2768.894
+United Kingdom,NA,2018,169.249
+United Kingdom,Total,2019,32693.14
+United Kingdom,High,2019,16529.272
+United Kingdom,Medium,2019,13347.894
+United Kingdom,Low,2019,2674.46
+United Kingdom,NA,2019,141.515
+United States,Total,2003,137735.817
+United States,High,2003,60909.357
+United States,Medium,2003,65344.018
+United States,Low,2003,11482.442
+United States,Total,2004,139251.974
+United States,High,2004,61585.868
+United States,Medium,2004,65906.78
+United States,Low,2004,11759.326
+United States,Total,2005,141729.642
+United States,High,2005,62380.228
+United States,Medium,2005,67226.73
+United States,Low,2005,12122.683
+United States,Total,2006,144427.075
+United States,High,2006,63734.718
+United States,Medium,2006,67994.012
+United States,Low,2006,12698.344
+United States,Total,2007,146046.519
+United States,High,2007,65132.203
+United States,Medium,2007,68141.36
+United States,Low,2007,12772.956
+United States,Total,2008,145362.386
+United States,High,2008,65574.771
+United States,Medium,2008,67163.42
+United States,Low,2008,12624.195
+United States,Total,2009,139877.462
+United States,High,2009,64705.317
+United States,Medium,2009,63405.204
+United States,Low,2009,11766.941
+United States,Total,2010,139063.968
+United States,High,2010,64046.143
+United States,Medium,2010,63310.334
+United States,Low,2010,11707.491
+United States,Total,2011,139869.209
+United States,High,2011,63381.437
+United States,Medium,2011,64585.107
+United States,Low,2011,11902.665
+United States,Total,2012,142469.096
+United States,High,2012,64839.077
+United States,Medium,2012,65223.044
+United States,Low,2012,12406.975
+United States,Total,2013,143929.34
+United States,High,2013,65681.979
+United States,Medium,2013,65527.631
+United States,Low,2013,12719.73
+United States,Total,2014,146305.335
+United States,High,2014,67277.848
+United States,Medium,2014,65934.938
+United States,Low,2014,13092.549
+United States,Total,2015,148833.528
+United States,High,2015,69402.66
+United States,Medium,2015,66248.439
+United States,Low,2015,13182.429
+United States,Total,2016,151435.913
+United States,High,2016,70680.019
+United States,Medium,2016,67245.781
+United States,Low,2016,13510.113
+United States,Total,2017,153337.437
+United States,High,2017,72164.775
+United States,Medium,2017,67432.722
+United States,Low,2017,13739.94
+United States,Total,2018,155761.05
+United States,High,2018,73856.069
+United States,Medium,2018,67832.337
+United States,Low,2018,14072.644
+United States,Total,2019,157538.068
+United States,High,2019,75607.435
+United States,Medium,2019,67620.684
+United States,Low,2019,14309.95
+United States,Total,2020,147794.858
+United States,High,2020,76843.057
+United States,Medium,2020,56246.405
+United States,Low,2020,14705.396
+United States,Total,2021,152580.672
+United States,High,2021,71365.594
+United States,Medium,2021,53797.362
+United States,Low,2021,14876.646
+United States,NA,2021,12541.07
